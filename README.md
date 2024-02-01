@@ -1,7 +1,6 @@
 ### Hi I am Amadeus
 - 🔭 I’m currently working on Cyber Security Project (Personal HOME LAB), this page will be used to document the journey.
 - 🌱 I’m currently learning ALL Things Cyber Security.
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: (Locked)
 
 <!--
