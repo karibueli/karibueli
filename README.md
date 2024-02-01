@@ -5,7 +5,7 @@
 ### <h2> Certifications </h2>
 - [CompTIA Security+ Ce Certification](url)
 - [Cisco Certified Network Associate (CCNA) Certification](url)
-- [LinkedIn Profile](linkedin.com/in/alyatuu)
+- [LinkedIn Profile](https://linkedin.com/in/alyatuu)
 <!--
 **karibueli/karibueli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
